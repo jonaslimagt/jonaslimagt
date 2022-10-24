@@ -6,7 +6,7 @@
 - jonaslimagt@gmail.com
 - @jonaslimagt on Twitter
 - @jonas.inc on Instagram
-- ...
+...
 
 <!---
 jonaslimagt/jonaslimagt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
